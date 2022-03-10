@@ -1,0 +1,15 @@
+.home-pad {padding: 5rem 3rem;background: #f6f6f7;}
+.text-sm {margin: 0;font-weight: bold;}
+.text-lg {margin: 0;font-weight: bold;font-size: 24px;}
+.bg_grey{background: #f6f6f7;border-radius: 0 0 1rem 1rem;}
+.form-title {margin: 0;font-size: 1.5rem;font-weight: bold;margin-bottom: .75rem;color: #07ba07;}
+.home-input {width: 100%;height: 44px;margin-bottom: 0.75rem;padding: 0 10px;border-radius: 6px;border: solid 1px grey;}
+.form_btn {height: 48px;background: #f8bb06;color: #fff;border: none;font-weight: bold;font-size: 18px;border-radius: 6px;}
+.form-title_sm {font-weight: bold;color: #2e2e2e;}
+.head_logo {width: 120px;}
+@media (max-width: 768px){
+    .home-pad {padding: 1rem 0;}
+}
+@media (max-width: 992px){
+    .mb-top {margin-bottom: 2rem;}
+}
